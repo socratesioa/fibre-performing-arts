@@ -106,7 +106,7 @@ header {
       rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.5)
     ),
-    url("./images/hero-mobile.jpg");
+    url("../images/hero-mobile.jpg");
   background-size: cover;
   background-position: center;
   height: 100dvh;
@@ -381,7 +381,7 @@ footer {
         rgba(0, 0, 0, 0.1),
         rgba(0, 0, 0, 0.5)
       ),
-      url("./images/hero-desktop.JPG");
+      url("../images/hero-desktop.JPG");
   }
 
   .top-area {
